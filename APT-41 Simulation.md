@@ -62,7 +62,7 @@ Windows Authentication
 
 ![alt text](<Media/Screenshot (86).png>)
 
-# constraint delegation
+# Constrained Delegation
 ![alt text](<Media/Screenshot (87).png>)
 
 ![alt text](<Media/constrain delegation impersonate.png>)
