@@ -1,4 +1,19 @@
+# still working on Rootkit and C2 coff loader  
 
+# contents
+- [GoPhish](#gophish)
+- [clickonce installer, TPMS](#clickonce-installer-tpms)
+- [pivoting](#pivoting)
+- [Windows Authentication](#windows-authentication)
+- [FileUpload](#fileupload)
+- [webShell](#webshell)
+- [Custom C2](#custom-c2)
+- [constraint delegation](#constraint-delegation)
+- [Mitre attack navigator](#mitre-attack-navigator)
+- [EDR Evasion](#edr-evasion)
+- [Splunk RootKit Detection](#splunk-rootkit-detection)
+- [Active Directory Constraint Delegation Detection](#active-directory-constraint-delegation-detection)
+- [Splunk Web Shell Detection](#splunk-web-shell-detection)
 
 # GoPhish
 ![alt text](<Media/Screenshot (90).png>)
