@@ -1,121 +1,92 @@
-
 # pivoting
-
-![[Screenshot (72).png]]
+![alt text](<Media/Screenshot (72).png>)
 
 Windows Authentication
-![[Screenshot (73).png]]
+![alt text](<Media/Screenshot (73).png>)
 
 # FileUpload
+![alt text](<Media/Screenshot (74).png>)
 
-![[Screenshot (74).png]]
+![alt text](<Media/Screenshot (77).png>)
 
-![[Screenshot (77).png]]
+![alt text](<Media/Screenshot (75).png>)
 
-![[Screenshot (75).png]]
-
-![[Screenshot (76).png]]
-
+![alt text](<Media/Screenshot (76).png>)
 
 # webShell
-![[Screenshot (78).png]]
+![alt text](<Media/Screenshot (78).png>)
 
-![[Screenshot (79).png]]
-![[Screenshot (80).png]]
+![alt text](<Media/Screenshot (79).png>)
 
-Custom C2
-![[Screenshot (81).png]]
+![alt text](<Media/Screenshot (80).png>)
 
+# Custom C2
+![alt text](<Media/Screenshot (81).png>)
 
+![alt text](<Media/Screenshot (82).png>)
 
-![[Screenshot (82).png]]
+![alt text](<Media/Screenshot (83).png>)
 
-![[Screenshot (83).png]]
+![alt text](<Media/Screenshot (84).png>)
 
+![alt text](<Media/Screenshot (85).png>)
 
+![alt text](<Media/Screenshot (86).png>)
 
-![[Screenshot (84).png]]
-
-![[Screenshot (85).png]]
-
-![[Screenshot (86).png]]
 # constraint delegation
+![alt text](<Media/Screenshot (87).png>)
 
-![[Screenshot (87).png]]
+![alt text](<Media/constrain delegation impersonate.png>)
 
-![[constrain delegation impersonate.png]]
-
-![[constrain delegation alter service.png]]
+![alt text](<Media/constrain delegation alter service.png>)
 
 # GoPhish
-![[Screenshot (90).png]]
+![alt text](<Media/Screenshot (90).png>)
 
+![alt text](<Media/Screenshot (91).png>)
 
-![[Screenshot (91).png]]
-
-![[Screenshot (92).png]]
+![alt text](<Media/Screenshot (92).png>)
 # Splunk RootKit Detection
 
-![[Screenshot (93).png]]
+![alt text](<Media/Screenshot (93).png>)
 
-![[Screenshot (94).png]]
+![alt text](<Media/Screenshot (94).png>)
 
-![[Screenshot (95).png]]
+![alt text](<Media/Screenshot (95).png>)
 
 # Active Directory Constraint Delegation Detection
-![[Screenshot (96).png]]
+![alt text](<Media/Screenshot (96).png>)
 
-![[Screenshot (98).png]]
+![alt text](<Media/Screenshot (98).png>)
+
 # Splunk Web Shell Detection
-![[Screenshot (99).png]]
+![alt text](<Media/Screenshot (99).png>)
+
 # Mitre attack navigator
-![[Screenshot (100).png]]
+![alt text](<Media/Screenshot (100).png>)
 
+![alt text](<Media/Screenshot (101).png>)
 
-
-![[Screenshot (101).png]]
-
-![[Screenshot (102).png]]
-
+![alt text](<Media/Screenshot (102).png>)
 
 # EDR Evasion
-![[Screenshot 2026-08-29 082709.png]]
+![alt text](<Media/Screenshot 2026-08-29 082709.png>)
 # clickonce installer, TPMS
 
-![[tpms clickonce installer 1.png]]
+![alt text](<Media/tpms clickonce installer 1.png>)
 
-![[tpms clickonce installer 2.png]]
+![alt text](<Media/tpms clickonce installer 2.png>)
 
-![[tpms clickonce installer kali 2.png]]
+![alt text](<Media/tpms clickonce installer kali 2.png>)
 
-![[tpms clickonce installer kali.png]]
+![alt text](<Media/tpms clickonce installer kali.png>)
 
+![alt text](<Media/tpms dnspy stager.png>)
 
-![[tpms dnspy stager.png]]
+![alt text](<Media/tpms dnspy.png>)
 
+![alt text](<Media/tpms run stager.png>)
 
+![alt text](<Media/tpms download shellcodes from kali.png>)
 
-
-![[tpms dnspy.png]]
-
-
-![[tpms run stager.png]]
-
-
-![[tpms download shellcodes from kali.png]]
-
-
-![[cobalt stablished connection.png]]
-
-
-
-
-
-
-
-
-
-
-
-
-
+![alt text](<Media/cobalt stablished connection.png>)
