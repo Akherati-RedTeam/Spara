@@ -1,3 +1,32 @@
+
+
+# GoPhish
+![alt text](<Media/Screenshot (90).png>)
+
+![alt text](<Media/Screenshot (91).png>)
+
+![alt text](<Media/Screenshot (92).png>)
+
+# clickonce installer, TPMS
+
+![alt text](<Media/tpms clickonce installer 1.png>)
+
+![alt text](<Media/tpms clickonce installer 2.png>)
+
+![alt text](<Media/tpms clickonce installer kali 2.png>)
+
+![alt text](<Media/tpms clickonce installer kali.png>)
+
+![alt text](<Media/tpms dnspy stager.png>)
+
+![alt text](<Media/tpms dnspy.png>)
+
+![alt text](<Media/tpms run stager.png>)
+
+![alt text](<Media/tpms download shellcodes from kali.png>)
+
+![alt text](<Media/cobalt stablished connection.png>)
+
 # pivoting
 ![alt text](<Media/Screenshot (72).png>)
 
@@ -40,12 +69,16 @@ Windows Authentication
 
 ![alt text](<Media/constrain delegation alter service.png>)
 
-# GoPhish
-![alt text](<Media/Screenshot (90).png>)
+# Mitre attack navigator
+![alt text](<Media/Screenshot (100).png>)
 
-![alt text](<Media/Screenshot (91).png>)
+![alt text](<Media/Screenshot (101).png>)
 
-![alt text](<Media/Screenshot (92).png>)
+![alt text](<Media/Screenshot (102).png>)
+
+# EDR Evasion
+![alt text](<Media/Screenshot 2026-08-29 082709.png>)
+
 # Splunk RootKit Detection
 
 ![alt text](<Media/Screenshot (93).png>)
@@ -62,31 +95,3 @@ Windows Authentication
 # Splunk Web Shell Detection
 ![alt text](<Media/Screenshot (99).png>)
 
-# Mitre attack navigator
-![alt text](<Media/Screenshot (100).png>)
-
-![alt text](<Media/Screenshot (101).png>)
-
-![alt text](<Media/Screenshot (102).png>)
-
-# EDR Evasion
-![alt text](<Media/Screenshot 2026-08-29 082709.png>)
-# clickonce installer, TPMS
-
-![alt text](<Media/tpms clickonce installer 1.png>)
-
-![alt text](<Media/tpms clickonce installer 2.png>)
-
-![alt text](<Media/tpms clickonce installer kali 2.png>)
-
-![alt text](<Media/tpms clickonce installer kali.png>)
-
-![alt text](<Media/tpms dnspy stager.png>)
-
-![alt text](<Media/tpms dnspy.png>)
-
-![alt text](<Media/tpms run stager.png>)
-
-![alt text](<Media/tpms download shellcodes from kali.png>)
-
-![alt text](<Media/cobalt stablished connection.png>)
