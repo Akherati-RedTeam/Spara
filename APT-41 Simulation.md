@@ -87,7 +87,7 @@ Windows Authentication
 
 ![alt text](<Media/Screenshot (95).png>)
 
-# Active Directory Constraint Delegation Detection
+# Active Directory Constrained Delegation Detection
 ![alt text](<Media/Screenshot (96).png>)
 
 ![alt text](<Media/Screenshot (98).png>)
